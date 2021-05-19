@@ -1,5 +1,5 @@
-Class Masteradded{
- public static void maine(String[] args ){
+class Masteradded{
+ public static void main(String[] args ){
  
  System.out.println("Masteradded");
  } 
