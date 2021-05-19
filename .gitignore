@@ -1,0 +1,10 @@
+*.log
+*.classpath
+
+staged.txt
+unstaged.txt
+ngsh_readme.txt
+
+
+
+newtest.txt
